@@ -119,8 +119,8 @@ public class MainActivity extends Activity implements
 
     @Override
     public void onPartialResult(String hypothesis) {
-        resultView.append(hypothesis + "\n");
     }
+
 
     @Override
     public void onError(Exception e) {

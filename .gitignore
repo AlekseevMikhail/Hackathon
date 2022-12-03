@@ -1,7 +1,7 @@
 .gradle
 .idea
 /local.properties
-/build
+**/build
 /app/build
 /models/build
 .DS_Store
